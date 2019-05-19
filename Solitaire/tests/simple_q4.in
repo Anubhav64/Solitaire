@@ -1,0 +1,19 @@
+initcustom 
+A 2 3 4 5 6 7 8 9 10 J Q K
+A 2 3 4 5 6 7 8 9 10 J Q K
+A 2 3 4 5 6 7 8 9 10 J Q K
+A 2 3 4 5 6 7 8 9 10 J E
+Q K A 2 3 E 4 E
+5 6 7 8 9 E 10 E 
+J Q K A 2 E 3 E
+4 5 6 7 8 E 9 E
+10 J Q K E A E 
+2 3 4 5 E 6 E 
+7 8 9 10 E J E
+Q K A 2 E 3 E 
+4 5 6 7 E 8 E 
+9 10 J Q E K E
+0
+print
+move 2 3 0
+quit
